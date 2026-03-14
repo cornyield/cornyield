@@ -5,7 +5,7 @@
 
 - Im currently learning **linked list nodes in 16-bit x86 assembly**
 
-- All of my projects will be available here [https://github.com/cornyield](https://github.com/cornyield)
+- All of my projects will be available here on [https://github.com/cornyield](https://github.com/cornyield)
 
 - How to contact me **javascriptsuckss@proton.me**
 <p align="left">
