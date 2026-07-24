@@ -3,7 +3,7 @@
 
 - Im currently working on **WaylaOS**
 
-- Im currently learning **linked list nodes in 16-bit x86 assembly**
+- Im currently learning **Nothing**
 
 - All of my projects will be available here on [https://github.com/cornyield](https://github.com/cornyield)
 
