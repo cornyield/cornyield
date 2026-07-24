@@ -7,7 +7,7 @@
 
 - All of my projects will be available here on [https://github.com/cornyield](https://github.com/cornyield)
 
-- How to contact me **javascriptsuckss@proton.me**
+- How to contact me **hexdumper on discord**
 <p align="left">
 </p>
 
