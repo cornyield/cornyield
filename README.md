@@ -1,7 +1,7 @@
-<h1 align="center">Hello, im cornyield</h1>
+<h1 align="center">Hello, im cornyield/phastomd</h1>
 <h3 align="center">A teenager who makes things for fun.</h3>
 
-- Im currently working on **WaylaOS**
+- Im currently working on **Nothing**
 
 - Im currently learning **Nothing**
 
